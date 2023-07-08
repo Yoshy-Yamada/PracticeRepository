@@ -1,2 +1,2 @@
 # PracticeRepository
-練習用のレポジトリ
+練習用のリポジトリ
